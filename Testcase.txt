@@ -1,0 +1,78 @@
+Welcome to My Raffle App
+Status: Draw has not started
+[1] Start a New Draw
+[2] Buy Tickets
+[3] Run Raffle
+Enter your choice: 1
+New Raffle draw has been started. Initial pot size: $100
+
+
+Welcome to My Raffle App
+Status: Draw is ongoing. Raffle pot size is $100
+[1] Start a New Draw
+[2] Buy Tickets
+[3] Run Raffle
+Enter your choice: 2
+Enter your name, number of tickets to purchase: vicky,2
+Hi vicky, you have purchased 2 ticket(s)
+Ticket 1: 15 14 4 1 2
+Ticket 2: 4 3 6 9 15
+
+Welcome to My Raffle App
+Status: Draw is ongoing. Raffle pot size is $110
+[1] Start a New Draw
+[2] Buy Tickets
+[3] Run Raffle
+Enter your choice: 2
+Enter your name, number of tickets to purchase: Manish,1
+Hi Manish, you have purchased 1 ticket(s)
+Ticket 1: 2 12 5 11 9
+
+Welcome to My Raffle App
+Status: Draw is ongoing. Raffle pot size is $115
+[1] Start a New Draw
+[2] Buy Tickets
+[3] Run Raffle
+Enter your choice: 3
+Running Raffle..
+Winning Ticket is: 8 3 10 14 7
+
+Welcome to My Raffle App
+Status: Draw is ongoing. Raffle pot size is $115
+[1] Start a New Draw
+[2] Buy Tickets
+[3] Run Raffle
+Enter your choice: 2
+Enter your name, number of tickets to purchase: Rahul,5
+Hi Rahul, you have purchased 5 ticket(s)
+Ticket 1: 3 15 10 8 12
+Ticket 2: 2 6 4 9 10
+Ticket 3: 15 7 13 6 9
+Ticket 4: 6 7 5 2 10
+Ticket 5: 7 11 6 8 14
+
+Welcome to My Raffle App
+Status: Draw is ongoing. Raffle pot size is $140
+[1] Start a New Draw
+[2] Buy Tickets
+[3] Run Raffle
+Enter your choice: 3
+Running Raffle..
+Winning Ticket is: 4 10 2 9 13
+
+Group 2 Winners:
+vicky with 5 winning ticket(s) - $2.8
+vicky with 5 winning ticket(s) - $2.8
+Manish with 5 winning ticket(s) - $2.8
+Rahul with 5 winning ticket(s) - $2.8
+Rahul with 5 winning ticket(s) - $2.8
+
+Group 4 Winners:
+Rahul with 1 winning ticket(s) - $35.0
+
+Welcome to My Raffle App
+Status: Draw is ongoing. Raffle pot size is $140
+[1] Start a New Draw
+[2] Buy Tickets
+[3] Run Raffle
+Enter your choice:
